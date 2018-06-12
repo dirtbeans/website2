@@ -1,1 +1,1 @@
-alert("Click "OK" if this is awesome!");
+alert("Click OK if this is awesome!");
