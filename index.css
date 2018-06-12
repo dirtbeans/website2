@@ -1,3 +1,64 @@
-html {
-  color: green;
+body {
+  text-align: center;
+  font-family:Arial;
+  font-size: 100%;
+  background: black;
+  height: 2000px;
+}
+div {
+  border: 5px solid black;
+  padding: 5px 5px 5px 5px;
+  border-radius: 25px;
+  width: 90%;
+  margin: 25px 25px 25px 25px;
+  background: #e6e6e6;
+}
+h1 {
+  font-size: 3.5em; 
+}
+h2 {
+  font-size: 2.5em;
+}
+h3 {
+  font-size: 2.5em;
+}
+p { 
+  padding: 25px;
+  margin: 25px 50px;
+}
+p1 {
+  border: 1px double;
+  padding: 5px;
+  margin: 50px 100px;
+  background: black;
+  color: white;
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8c8c8c;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #262626;
+    background-color: transparent;
+    text-decoration: underline;
+}
+img {
+  border-radius: 50%;
+    height: 10%;
+    width: 10%;
 }
